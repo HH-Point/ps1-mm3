@@ -3,7 +3,7 @@ Just my own version of the common PlayStation 1 MM3 ModChip
 
 <img width="708" alt="image" src="https://github.com/HH-Point/ps1-mm3/assets/63919543/4c0edccd-fd5f-44a9-b32a-cf894d6a219a">
 
-[I provide this fully flashed and assembled on my ebay store](https://www.ebay.com/usr/hh_point)
+[I plan to provide this fully flashed and assembled on my ebay store](https://www.ebay.com/usr/hh_point)
 
 This is a basic 1 layer modchip pcb I routed to be used with the common [PIC12C508A](https://www.digikey.com/en/products/detail/microchip-technology/PIC12C508A-04-SM/273437) integrated circuit.
 
